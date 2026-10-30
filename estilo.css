@@ -1,0 +1,28 @@
+:root{
+  --creme:#F2DFC0; --areia:#D9B98C; --ouro:#C8954E; --barro:#A4521F;
+  --marrom:#2A1A10; --fundo:#1A1009;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; padding:0 16px; background:var(--fundo); color:var(--creme);
+  font-family:"Trebuchet MS",system-ui,sans-serif; font-size:17px; line-height:1.65;
+}
+.folha{max-width:720px; margin:0 auto; padding:56px 0 72px}
+h1,h2,h3{font-family:Georgia,serif; font-weight:bold; line-height:1.25}
+h1{font-size:2rem; letter-spacing:.02em; margin:0 0 .2em}
+h2{font-size:1.25rem; color:var(--areia); margin:2.4em 0 .6em}
+.tagline{
+  color:var(--ouro); text-transform:uppercase; letter-spacing:.18em;
+  font-size:.78rem; margin:0 0 2.4em
+}
+.regua{border:0; border-top:1px solid var(--ouro); opacity:.45; margin:2.8em 0}
+a{color:var(--ouro)}
+a:hover{color:var(--creme)}
+ul{padding-left:1.2em}
+li{margin:.35em 0}
+.nota{color:var(--areia); font-size:.92rem}
+.rodape{
+  margin-top:3.5em; padding-top:1.4em; border-top:1px solid var(--marrom);
+  color:var(--areia); font-size:.86rem
+}
+.rodape a{margin-right:1.2em}
