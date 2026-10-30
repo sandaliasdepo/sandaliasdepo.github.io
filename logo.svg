@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="440" viewBox="0 0 1700 440">
+ <g transform="translate(205,220)"><g transform="scale(1.8857142857142857) translate(-60,-102.5)">
+  <defs><clipPath id="clip12"><path d="M 32 32
+C 36 20, 50 15, 62 16
+C 76 18, 88 26, 90 40
+C 92 52, 92 58, 91 68
+C 90 86, 81 98, 81 116
+C 81 134, 86 146, 86 158
+C 86 178, 74 190, 60 190
+C 46 190, 34 178, 34 158
+C 34 146, 39 134, 39 116
+C 39 98, 29 86, 29 68
+C 28 56, 29 42, 32 32 Z"/></clipPath></defs>
+  <path d="M 32 32
+C 36 20, 50 15, 62 16
+C 76 18, 88 26, 90 40
+C 92 52, 92 58, 91 68
+C 90 86, 81 98, 81 116
+C 81 134, 86 146, 86 158
+C 86 178, 74 190, 60 190
+C 46 190, 34 178, 34 158
+C 34 146, 39 134, 39 116
+C 39 98, 29 86, 29 68
+C 28 56, 29 42, 32 32 Z" fill="#F2DFC0"/>
+  <g clip-path="url(#clip12)" fill="none" stroke="#2A1A10" stroke-width="7" stroke-linecap="butt">
+<path d="M 16 58 C 44 74, 76 86, 102 100"/>
+<path d="M 102 58 C 74 74, 42 86, 16 100"/>
+<path d="M 18 128 C 40 144, 76 144, 98 128"/></g>
+  </g></g>
+ <text x="430" y="198" textLength="1180" lengthAdjust="spacing" font-family="Georgia" font-weight="bold" font-size="118" fill="#F2DFC0">SANDÁLIAS DE PÓ</text>
+ <rect x="432" y="246" width="1180" height="3" fill="#C8954E" opacity="0.75"/>
+ <text x="1020" y="332" text-anchor="middle" letter-spacing="12" font-family="Trebuchet MS" font-size="42" fill="#C8954E">HISTÓRIAS DA BÍBLIA NARRADAS</text>
+ </svg>
